@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">로그인</string>
+    <!--登录界面start-->
+
+    <string name="user_id">이름 ID</string><!--用户名-->
+    <string name="user_pwd">비밀번호</string><!--密码-->
+    <string name="user_login">로그인</string><!--登录-->
+    <string name="user_code">인증 코드</string><!--验证码-->
+    <string name="user_send_code">송신 인증 코드</string><!--发送验证码-->
+    <string name="user_phone">핸드폰 번호</string><!--手机号-->
+    <string name="required_user_phone">입력한 이름</string><!--请输入手机号-->
+    <string name="required_user_pwd">비밀번호 입력</string><!--请输入密码-->
+    <string name="required_user_code">请输入验证码</string><!--请输入验证码-->
+    <string name="user_useless">无效</string><!--无效-->
+    <string name="user_login_ok">登录成功</string><!--无效-->
+    <string name="user_login_error">로그인 실패</string><!--密码错误-->
+    <string name="user_login_no">로그인 실패</string><!--用户名不存在-->
+    <string name="wallet">钱包</string>
+    <string name="rmb_num">人民币数量</string>
+    <string name="A_num">A币数量</string>
+    <string name="DA_num">冻结A币数量</string>
+
+    <string name="restingorder">挂单</string>
+    <string name="order_optimalprice"> 最佳价格:</string>
+    <string name="order_rmb">人民币数量:</string>
+    <string name="order_price">价格:</string>
+    <string name="order_num">数量:</string>
+    <string name="order_pass">二级密码:</string>
+    <string name="order_sub">确定</string>
+
+    <string name="recycle">回收</string>
+    <string name="recycle_price">公司回收价:</string>
+    <string name="recycle_num">A币数量:</string>
+    <string name="recycle_sale">卖出数量:</string>
+    <string name="recycle_pass">交易密码:</string>
+    <string name="recycle_sub">确定</string>
+
+    <string name="virement">转账</string>
+    <string name="virement_A">A币:</string>
+    <string name="virement_type">货币类型:</string>
+    <string name="virement_account">帐号:</string>
+    <string name="virement_num">数量:</string>
+    <string name="virement_pass">密码:</string>
+    <string name="virement_sub">确定</string>
+
+    <string name="rmb">人民币</string>
+    <string name="rmb_id">序号</string>
+    <string name="rmb_change">变动金额</string>
+    <string name="rmb_time">变动时间</string>
+    <string name="rmb_intro">说明</string>
+
+    <string name="ab">A币</string>
+    <string name="ab_id">序号</string>
+    <string name="ab_change">变动金额</string>
+    <string name="ab_time">变动时间</string>
+    <string name="ab_intro">说明</string>
+
+    <string name="kuangj">矿机</string>
+    <string name="kuangj_version">型号</string>
+    <string name="kuangj_number">数量</string>
+    <string name="kuangj_summary">总量</string>
+    <string name="kuangj_download">下载</string>
+    <string name="kuangj_status">状态</string>
+    <string name="kuangj_register">矿机注册</string>
+
+    <string name="cash">提现</string>
+    <string name="cash_rmb">人民币提现</string>
+    <string name="cash_name">真实姓名</string>
+    <string name="cash_qq">QQ帐号</string>
+    <string name="cash_num">提现金额</string>
+    <string name="cash_pass">二级密码</string>
+
+    <string name="history">交易记录</string>
+    <string name="history_price">价格</string>
+    <string name="history_num">数量</string>
+    <string name="history_real">实际金额</string>
+    <string name="history_time">交易时间</string>
+    <string name="history_status">状态</string>
+
+    <!--登录界面end-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
